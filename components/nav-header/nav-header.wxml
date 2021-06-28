@@ -1,0 +1,16 @@
+	<!-- 推荐歌曲 -->
+	<view class="recommendContainer">
+		<view class="header">
+			<text class="title">
+				{{title}}
+			</text>
+			<view>
+				<span>
+					{{nav}}
+				</span>
+				<span class="more">
+					查看更多
+				</span>
+			</view>
+		</view>
+	</view>
